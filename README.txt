@@ -1,7 +1,10 @@
-# freecodecamp-calculator
+freecodecamp-calculator
+
 Javascript Object for performing calculator operations
+
 For each of your calculator functions add a class titled "calc-button" and an attribute titled "data-calc"
-Label the "calc-data" as follows for each of the calculator buttons.
+
+Label the "data-calc" as follows for each of the calculator buttons:
 
 All Clear Button - data-calc="ac"
 Clear Button - data-calc="clear"
