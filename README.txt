@@ -1,6 +1,6 @@
 freecodecamp-calculator
 
-Javascript Object for performing calculator operations
+Javascript Library for performing calculator operations
 
 For each of your calculator functions add a class titled "calc-button" and an attribute titled "data-calc"
 
